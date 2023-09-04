@@ -1,0 +1,23 @@
+{
+  "name": "iterabler-js",
+  "version": "1.0.0",
+  "description": "IterablerJS is a small JavaScript library to work with iterable objects.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leo-Ryabokon/IterablerJS.git"
+  },
+  "author": "Leonid Ryabokon",
+  "homepage": "https://github.com/Leo-Ryabokon/IterablerJS#readme",
+  "license": "MIT",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tsc",
+    "watch": "npx tsc -w"
+  },
+  "devDependencies": {
+    "jest": "^29.6.2",
+    "typescript": "^5.1.6"
+  },
+  "githubUrl": "https://github.com/Leo-Ryabokon/IterablerJS"
+}
